@@ -1,0 +1,1 @@
+{"version":3,"file":"welcome.js","sourceRoot":"","sources":["../../../app/handlers/welcome.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,kDAAsD;AAG/C,MAAM,OAAO,GAAG,CAAO,KAA6B,EAAE,EAAE;IAC3D,OAAO,CAAC,GAAG,CAAC,eAAe,EAAE,KAAK,CAAC,CAAC;IAEpC,OAAO,IAAA,0BAAe,EAAC;QACnB,OAAO,EAAE,kCAAkC;KAC9C,CAAC,CAAC;AACP,CAAC,CAAA,CAAC;AANW,QAAA,OAAO,WAMlB"}
